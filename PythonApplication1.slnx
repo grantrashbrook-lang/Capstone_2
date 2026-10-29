@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="../../../Downloads/Capstone Project 1/demo-loan.csv" />
+  </Folder>
+  <Project Path="PythonApplication1/PythonApplication1.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="3fa3cc53-7691-4171-9d36-d45ff7de3a8c">
+    <Build Project="false" />
+  </Project>
+</Solution>
